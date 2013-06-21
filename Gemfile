@@ -5,3 +5,5 @@ source "http://rubygems.org"
 gem "newrelic_plugin"
 # Use a local copy of the plugin gem:
 # gem "newrelic_plugin", :path => "~/dev/platform/newrelic_plugin"
+
+gem "foreman", :group => "deployment"
